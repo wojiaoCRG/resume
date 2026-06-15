@@ -35,7 +35,7 @@
 
 | 领域 | 技术栈 |
 |------|--------|
-| **编程 & 基础设施** | Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
+| **编程 & 基础设施** | Codex,Claude code,Openclaw,AI coding,Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
 | **机器人 & 感知** | 车臂协同、运动学建模、闭环控制、多传感器融合（视觉、IMU、里程计、动捕）、遥操作、标定 |
 | **AI / 计算机视觉** | PyTorch, OpenCV, 扩散模型, 行为克隆, 模仿学习数据管线, 模型微调 |
 | **硬件 & 原型开发** | SolidWorks, Fusion 360, PCB 设计, 3D 打印, 接线装配, 力/位移/电流传感, 快速原型 |
