@@ -3,6 +3,10 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/avatar.png" alt="avatar" width="150" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Hi 👋, 我是陈瑞国</h1>
 <h3 align="center">机器人与具身智能工程师 | 多传感器融合 | 全栈原型开发</h3>
 

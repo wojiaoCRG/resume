@@ -3,6 +3,10 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/avatar.png" alt="avatar" width="150" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ruiguo Chen</h1>
 <h3 align="center">Robotics & Embodied AI Engineer | Sensor Fusion | Full-Stack Prototyping</h3>
 
