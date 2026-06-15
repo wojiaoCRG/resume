@@ -35,7 +35,7 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 
 | Domain | Technologies |
 |--------|-------------|
-| **Languages & Infra** | Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
+| **Languages & Infra** | Codex,Claude code,Openclaw,AI coding,Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
 | **Robotics & Perception** | Vehicle-arm coordination, kinematic modeling, closed-loop control, sensor fusion (Vision, IMU, Odometry, MoCap), teleoperation, calibration |
 | **AI / CV** | PyTorch, OpenCV, diffusion models, behavior cloning, imitation learning data pipelines, model fine-tuning |
 | **Hardware & Prototyping** | SolidWorks, Fusion 360, PCB design, 3D printing, wiring, mechanical assembly, force/displacement/current sensing |
