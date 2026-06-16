@@ -43,14 +43,28 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 
 ## 🛠️ Core Skills
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages & Infra** | Codex, Claude code, Openclaw, AI coding, Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
-| **Robotics & Perception** | Vehicle-arm coordination, kinematic modeling, closed-loop control, sensor fusion (Vision, IMU, Odometry, MoCap), teleoperation, calibration |
-| **AI / CV** | PyTorch, OpenCV, diffusion models, behavior cloning, imitation learning data pipelines, model fine-tuning |
-| **Hardware & Prototyping** | SolidWorks, Fusion 360, PCB design, 3D printing, wiring, mechanical assembly, force/displacement/current sensing |
-
----
+<table>
+<tr>
+<td width="18%"><b>🔧 Languages & Infra</b></td>
+<td>Python, C++, STM32 HAL, CUDA, CMake, Bash/Shell, Git, GitHub Actions (CI/CD), Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, tf2, Protobuf, MQTT, gRPC, YAML/JSON</td>
+</tr>
+<tr>
+<td><b>🤖 Robotics & Control</b></td>
+<td>Vehicle-arm coordination, kinematic/dynamic modeling, closed-loop control, trajectory planning, SLAM, URDF/xacro, RViz, MoveIt, Gazebo, Isaac Sim, ros2_control, sensor fusion (Vision, IMU, Odometry, MoCap), teleoperation, calibration</td>
+</tr>
+<tr>
+<td><b>🧠 AI / Machine Learning</b></td>
+<td>PyTorch, CUDA/TensorRT, OpenCV, Diffusion Models, Diffusion Policy, Behavior Cloning (BC), ACT, Imitation Learning pipelines, Domain Randomization, Sim2Real transfer, HuggingFace, ONNX, model fine-tuning & deployment</td>
+</tr>
+<tr>
+<td><b>👤 Human Sensing & Motion</b></td>
+<td>Optical MoCap (12-camera sub-mm), OpenPose/MediaPipe, SMPL/SMPL-X, motion retargeting, RGB-D cameras (RealSense, Azure Kinect), iPhone LiDAR/Record3D, human-to-robot skill transfer, DexUMI-style data pipelines</td>
+</tr>
+<tr>
+<td><b>🔩 Hardware & Prototyping</b></td>
+<td>SolidWorks, Fusion 360, PCB design, 3D printing, I2C/SPI/UART/CAN, PID control, FreeRTOS, JTAG/SWD, BMS/Power systems, motor driver tuning, force/displacement/current sensing, mechanical assembly, rapid prototyping</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -183,11 +197,14 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 
 ## 🔭 Current Technical Focus
 
-- **ROS2 + Protobuf + MQTT:** Low-latency sensor streaming prototype with custom serialized messages.
-- **Isaac Sim / Imitation Learning:** Reproducing behavior-cloning workflows, organizing demonstration trajectory schemas.
-- **Record3D / iPhone Spatial Tracking:** Evaluating RGB-D + camera-pose capture for low-cost human demonstration data.
+- **Isaac Sim / Omniverse:** Building Human-in-the-Loop simulation with MoCap-driven digital humans via Python API & ROS2 Bridge.
+- **SMPL/SMPL-X:** Loading parametric body models, driving joints from AMASS datasets, visualizing in Isaac Sim.
+- **Diffusion Policy:** Reproducing Stanford Diffusion Policy on vehicle-arm coordination data — from ROS-bag to action generation.
+- **Low-Cost Data Pipeline:** iPhone Record3D → SMPL fitting → Isaac Sim retargeting → ROS2 streaming prototype.
+- **Sim2Real Transfer:** Designing domain-randomized training environments and benchmarking real-robot policy transfer.
 
----
+📊 **Skill Gap Analysis:** [SKILL_GAP_ANALYSIS.md](SKILL_GAP_ANALYSIS.md)
+🗺️ **6-Month Roadmap:** [ROADMAP_6MONTH.md](ROADMAP_6MONTH.md)---
 
 <p align="center">
   <i>⚡ "Connecting sensors to learning, one prototype at a time."</i>

@@ -43,14 +43,28 @@ AIGC:
 
 ## 🛠️ 核心技能
 
-| 领域 | 技术栈 |
-|------|--------|
-| **编程 & 基础设施** | Codex, Claude code, Openclaw, AI coding, Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
-| **机器人 & 感知** | 车臂协同、运动学建模、闭环控制、多传感器融合（视觉、IMU、里程计、动捕）、遥操作、标定 |
-| **AI / 计算机视觉** | PyTorch, OpenCV, 扩散模型, 行为克隆, 模仿学习数据管线, 模型微调 |
-| **硬件 & 原型开发** | SolidWorks, Fusion 360, PCB 设计, 3D 打印, 接线装配, 力/位移/电流传感, 快速原型 |
-
----
+<table>
+<tr>
+<td width="18%"><b>🔧 语言与基础设施</b></td>
+<td>Python, C++, STM32 HAL, CUDA, CMake, Bash/Shell, Git, GitHub Actions (CI/CD), Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, tf2, Protobuf, MQTT, gRPC, YAML/JSON</td>
+</tr>
+<tr>
+<td><b>🤖 机器人与控制</b></td>
+<td>车臂协同、运动学/动力学建模、闭环控制、轨迹规划、SLAM、URDF/xacro、RViz、MoveIt、Gazebo、Isaac Sim、ros2_control、多传感器融合（视觉、IMU、里程计、动捕）、遥操作、系统标定</td>
+</tr>
+<tr>
+<td><b>🧠 AI / 机器学习</b></td>
+<td>PyTorch, CUDA/TensorRT, OpenCV, 扩散模型, Diffusion Policy, 行为克隆 (BC), ACT, 模仿学习管线, Domain Randomization, Sim2Real 迁移, HuggingFace, ONNX, 模型微调与部署</td>
+</tr>
+<tr>
+<td><b>👤 人体感知与运动</b></td>
+<td>光学动捕（12相机亚毫米级）、OpenPose/MediaPipe、SMPL/SMPL-X、运动重定向、RGB-D 相机（RealSense, Azure Kinect）、iPhone LiDAR/Record3D、人机技能迁移、DexUMI 风格数据管线</td>
+</tr>
+<tr>
+<td><b>🔩 硬件与原型开发</b></td>
+<td>SolidWorks, Fusion 360, PCB 设计, 3D 打印, I2C/SPI/UART/CAN, PID 控制, FreeRTOS, JTAG/SWD, BMS/电源系统, 电机驱动调参, 力/位移/电流传感, 机械装配, 快速原型</td>
+</tr>
+</table>
 
 ## 🚀 重点项目
 
@@ -183,11 +197,14 @@ AIGC:
 
 ## 🔭 当前技术探索
 
-- **ROS2 + Protobuf + MQTT：** 自定义序列化消息的低延迟传感器流原型。
-- **Isaac Sim / 模仿学习：** 复现行为克隆工作流，整理示教轨迹数据模式。
-- **Record3D / iPhone 空间追踪：** 评估 RGB-D + 相机位姿捕捉作为低成本人类示教数据源。
+- **Isaac Sim / Omniverse:** 基于 Python API 与 ROS2 Bridge 搭建 Human-in-the-Loop 仿真，用动捕数据驱动数字人。
+- **SMPL/SMPL-X:** 加载参数化人体模型，从 AMASS 数据集驱动关节，在 Isaac Sim 中可视化。
+- **Diffusion Policy:** 在车臂协同数据上复现 Stanford Diffusion Policy —— 从 ROS-bag 到动作生成。
+- **低成本数据管线:** iPhone Record3D → SMPL 拟合 → Isaac Sim 重定向 → ROS2 流式传输原型。
+- **Sim2Real 迁移:** 设计域随机化训练环境，对标真实机器人策略迁移效果。
 
----
+📊 **技能差距分析:** [SKILL_GAP_ANALYSIS.md](SKILL_GAP_ANALYSIS.md)
+🗺️ **6个月冲刺计划:** [ROADMAP_6MONTH.md](ROADMAP_6MONTH.md)---
 
 <p align="center">
   <i>⚡ "从传感器到学习，一次一个原型。"</i>
