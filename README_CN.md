@@ -61,7 +61,9 @@ AIGC:
   <img src="assets/Vehicle-Arm.png" alt="车臂协同系统" width="75%">
 </p>
 
-<video src="assets/mobile%20robot%20printing.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/mobile%20robot%20printing.mp4">📹 观看演示视频：移动机器人3D打印</a>
+</p>
 
 - 对**全向移动底盘 + 多自由度机械臂**进行耦合运动学建模，解决 SLAM 漂移、运动不同步及实时偏差补偿问题。
 - 融合**视觉、IMU、里程计、语音和动捕信号**构建统一感知-控制管线，记录关节角、末端位姿及偏差指标，支持回放分析。
@@ -78,7 +80,9 @@ AIGC:
   <img src="assets/Motion%20Capture.png" alt="光学动捕系统 / Motion Capture System" width="75%">
 </p>
 
-<video src="assets/Motion%20Capture.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/Motion%20Capture.mp4">📹 观看演示视频：动捕标定</a>
+</p>
 
 - 操作 **12 相机光学动捕系统**（亚毫米精度），记录打印任务中底盘与机械臂的动态轨迹。
 - 将**动捕真值与机载里程计及 IMU** 进行时间同步，实现逐层误差分析与补偿。
@@ -93,7 +97,9 @@ AIGC:
   <img src="assets/motor%20test.png" alt="测试台" width="75%">
 </p>
 
-<video src="assets/motor%20test.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/motor%20test.mp4">📹 观看演示视频：电机测试台</a>
+</p>
 
 - 设计并搭建测试平台，测量**直线电机位移、电压、输出力及电流**。
 - 编写 **STM32 HAL 固件**实现实时数据采集、闭环控制、传感器标定及实验验证。
@@ -117,8 +123,12 @@ AIGC:
 ### 5. 快速机电原型：电动滑板 & 升降椅
 *独立 / 团队负责人 · 2021 年 6 月 – 2024 年 10 月*
 
-<video src="assets/wukong%20cloud.mp4" controls width="100%"></video>
-<video src="assets/Lift%20Chair.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/wukong%20cloud.mp4">📹 观看演示视频：电动滑板</a>
+</p>
+<p align="center">
+  <a href="assets/Lift%20Chair.mp4">📹 观看演示视频：升降椅</a>
+</p>
 
 - **电动滑板：** 完整硬件集成 —— 需求分析与器件选型 → PCB 制作 → **10S2P 电池组装配** → 电机控制器调参 → 结构制作。稳定运行 2 年以上。
 - **智能全向升降椅：** 带领团队完成剪叉升降机构 + 手控界面的原型开发，强化了人本设计和全栈机电装配能力。

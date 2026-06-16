@@ -61,7 +61,9 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
   <img src="assets/Vehicle-Arm.png" alt="Vehicle-Arm System" width="75%">
 </p>
 
-<video src="assets/mobile%20robot%20printing.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/mobile%20robot%20printing.mp4">📹 Watch: Mobile Robot Printing Demo</a>
+</p>
 
 - Modeled coupled kinematics of an **omnidirectional vehicle base + multi-DOF robotic arm** to solve SLAM drift, motion desynchronization, and real-time deviation compensation.
 - Built a unified perception-control pipeline fusing **vision, IMU, odometry, voice, and motion capture** signals; recorded joint angles, end-effector poses, and deviation metrics for replay analysis.
@@ -78,7 +80,9 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
   <img src="assets/Motion%20Capture.png" alt="Motion Capture System" width="75%">
 </p>
 
-<video src="assets/Motion%20Capture.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/Motion%20Capture.mp4">📹 Watch: Motion Capture Demo</a>
+</p>
 
 - Operated a **12-camera optical MoCap system** (sub-millimeter precision) to record dynamic chassis and arm trajectories during printing.
 - Time-synchronized **MoCap ground truth with onboard odometry & IMU**, enabling layer-by-layer error analysis and compensation.
@@ -93,7 +97,9 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
   <img src="assets/motor%20test.png" alt="Test Rig" width="75%">
 </p>
 
-<video src="assets/motor%20test.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/motor%20test.mp4">📹 Watch: Motor Test Rig Demo</a>
+</p>
 
 - Designed and built a test platform measuring **linear motor displacement, voltage, output force, and current**.
 - Implemented **STM32 HAL firmware** for real-time data acquisition, closed-loop control, sensor calibration, and experimental validation.
@@ -117,8 +123,12 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 ### 5. Rapid Mechatronic Prototypes: Electric Skateboard & Lift Chair
 *Independent / Team Lead · Jun 2021 – Oct 2024*
 
-<video src="assets/wukong%20cloud.mp4" controls width="100%"></video>
-<video src="assets/Lift%20Chair.mp4" controls width="100%"></video>
+<p align="center">
+  <a href="assets/wukong%20cloud.mp4">📹 Watch: Electric Skateboard Demo</a>
+</p>
+<p align="center">
+  <a href="assets/Lift%20Chair.mp4">📹 Watch: Lift Chair Demo</a>
+</p>
 
 - **Electric Skateboard:** Full hardware integration — component selection → PCB fabrication → **10S2P battery pack assembly** → motor controller tuning → structural build. Reliable operation for 2+ years.
 - **Smart Omnidirectional Lift Chair:** Led prototype with scissor-lift mechanism and hand-control interface, building human-centered design and full-stack electromechanical assembly skills.
