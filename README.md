@@ -1,10 +1,5 @@
-
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/avatar.png" alt="avatar" width="150" style="border-radius: 50%;">
+  <img src="assets/avatar.png" alt="avatar" width="150">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ruiguo Chen</h1>
@@ -30,7 +25,7 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 - 🔬 **Focus:** DexUMI-style human-to-robot skill transfer, demonstration datasets, imitation learning
 
 <p align="center">
-  <img src="assets/about_overview.png" alt="Overview" width="80%">
+  <img src="assets/Overview.png" alt="Overview" width="80%">
 </p>
 
 ---
@@ -39,14 +34,10 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 
 | Domain | Technologies |
 |--------|-------------|
-| **Languages & Infra** | Codex,Claude code,Openclaw,AI coding,Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
+| **Languages & Infra** | Codex, Claude code, Openclaw, AI coding, Python, C++, STM32 HAL, Git, Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, Protobuf/MQTT |
 | **Robotics & Perception** | Vehicle-arm coordination, kinematic modeling, closed-loop control, sensor fusion (Vision, IMU, Odometry, MoCap), teleoperation, calibration |
 | **AI / CV** | PyTorch, OpenCV, diffusion models, behavior cloning, imitation learning data pipelines, model fine-tuning |
 | **Hardware & Prototyping** | SolidWorks, Fusion 360, PCB design, 3D printing, wiring, mechanical assembly, force/displacement/current sensing |
-
-<p align="center">
-  <img src="assets/skills_overview.png" alt="Skills" width="85%">
-</p>
 
 ---
 
@@ -56,8 +47,10 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 *Project Lead · Sep 2023 – 2026*
 
 <p align="center">
-  <img src="assets/project1_vehicle_arm.png" alt="Vehicle-Arm System" width="75%">
+  <img src="assets/Vehicle-Arm.png" alt="Vehicle-Arm System" width="75%">
 </p>
+
+<video src="assets/mobile%20robot%20printing.mp4" controls width="100%"></video>
 
 - Modeled coupled kinematics of an **omnidirectional vehicle base + multi-DOF robotic arm** to solve SLAM drift, motion desynchronization, and real-time deviation compensation.
 - Built a unified perception-control pipeline fusing **vision, IMU, odometry, voice, and motion capture** signals; recorded joint angles, end-effector poses, and deviation metrics for replay analysis.
@@ -71,8 +64,10 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 *Independent Research · Jul – Oct 2025*
 
 <p align="center">
-  <img src="assets/project2_mocap.png" alt="Motion Capture System" width="75%">
+  <img src="assets/Motion%20Capture.png" alt="Motion Capture System" width="75%">
 </p>
+
+<video src="assets/Motion%20Capture.mp4" controls width="100%"></video>
 
 - Operated a **12-camera optical MoCap system** (sub-millimeter precision) to record dynamic chassis and arm trajectories during printing.
 - Time-synchronized **MoCap ground truth with onboard odometry & IMU**, enabling layer-by-layer error analysis and compensation.
@@ -84,8 +79,10 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 *Bachelor Thesis · Feb – May 2023*
 
 <p align="center">
-  <img src="assets/project3_test_rig.png" alt="Test Rig" width="75%">
+  <img src="assets/motor%20test.png" alt="Test Rig" width="75%">
 </p>
+
+<video src="assets/motor%20test.mp4" controls width="100%"></video>
 
 - Designed and built a test platform measuring **linear motor displacement, voltage, output force, and current**.
 - Implemented **STM32 HAL firmware** for real-time data acquisition, closed-loop control, sensor calibration, and experimental validation.
@@ -97,7 +94,8 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 *Independent Research · Apr – Jul 2025*
 
 <p align="center">
-  <img src="assets/project4_diffusion.png" alt="Diffusion Model" width="60%">
+  <img src="assets/huggingface.png" alt="HuggingFace" width="48%">
+  <img src="assets/model%20training.png" alt="Model Training" width="48%">
 </p>
 
 - Fine-tuned a **196M-parameter Diffusion Transformer + Length Regulator** in PyTorch across 13 epochs / 500 optimization steps, achieving ~50% loss reduction.
@@ -108,9 +106,8 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 ### 5. Rapid Mechatronic Prototypes: Electric Skateboard & Lift Chair
 *Independent / Team Lead · Jun 2021 – Oct 2024*
 
-<p align="center">
-  <img src="assets/project5_prototypes.png" alt="Mechatronic Prototypes" width="75%">
-</p>
+<video src="assets/wukong%20cloud.mp4" controls width="100%"></video>
+<video src="assets/Lift%20Chair.mp4" controls width="100%"></video>
 
 - **Electric Skateboard:** Full hardware integration — component selection → PCB fabrication → **10S2P battery pack assembly** → motor controller tuning → structural build. Reliable operation for 2+ years.
 - **Smart Omnidirectional Lift Chair:** Led prototype with scissor-lift mechanism and hand-control interface, building human-centered design and full-stack electromechanical assembly skills.
