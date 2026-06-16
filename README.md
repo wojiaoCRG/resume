@@ -62,7 +62,7 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 </p>
 
 <p align="center">
-  <a href="assets/mobile%20robot%20printing.mp4">📹 Watch: Mobile Robot Printing Demo</a>
+  <a href="https://www.bilibili.com/video/BV1LBjV6kEPN/">📹 Watch on Bilibili: Mobile Robot Printing Demo</a>
 </p>
 
 - Modeled coupled kinematics of an **omnidirectional vehicle base + multi-DOF robotic arm** to solve SLAM drift, motion desynchronization, and real-time deviation compensation.
@@ -81,7 +81,7 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 </p>
 
 <p align="center">
-  <a href="assets/Motion%20Capture.mp4">📹 Watch: Motion Capture Demo</a>
+  <a href="https://www.bilibili.com/video/BV1RBjV6rEYy/">📹 Watch on Bilibili: Motion Capture Demo</a>
 </p>
 
 - Operated a **12-camera optical MoCap system** (sub-millimeter precision) to record dynamic chassis and arm trajectories during printing.
@@ -98,7 +98,7 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 </p>
 
 <p align="center">
-  <a href="assets/motor%20test.mp4">📹 Watch: Motor Test Rig Demo</a>
+  <a href="https://www.bilibili.com/video/BV1HL41167A9/">📹 Watch on Bilibili: Motor Test Rig Demo</a>
 </p>
 
 - Designed and built a test platform measuring **linear motor displacement, voltage, output force, and current**.
@@ -124,10 +124,10 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 *Independent / Team Lead · Jun 2021 – Oct 2024*
 
 <p align="center">
-  <a href="assets/wukong%20cloud.mp4">📹 Watch: Electric Skateboard Demo</a>
+  <a href="https://www.bilibili.com/video/BV1y51uYWEHZ/">📹 Watch on Bilibili: Electric Skateboard Demo</a>
 </p>
 <p align="center">
-  <a href="assets/Lift%20Chair.mp4">📹 Watch: Lift Chair Demo</a>
+  <a href="https://www.bilibili.com/video/BV18L4y1h7vY/">📹 Watch on Bilibili: Lift Chair Demo</a>
 </p>
 
 - **Electric Skateboard:** Full hardware integration — component selection → PCB fabrication → **10S2P battery pack assembly** → motor controller tuning → structural build. Reliable operation for 2+ years.

@@ -62,7 +62,7 @@ AIGC:
 </p>
 
 <p align="center">
-  <a href="assets/mobile%20robot%20printing.mp4">📹 观看演示视频：移动机器人3D打印</a>
+  <a href="https://www.bilibili.com/video/BV1LBjV6kEPN/">📹 B站观看：移动机器人3D打印演示</a>
 </p>
 
 - 对**全向移动底盘 + 多自由度机械臂**进行耦合运动学建模，解决 SLAM 漂移、运动不同步及实时偏差补偿问题。
@@ -81,7 +81,7 @@ AIGC:
 </p>
 
 <p align="center">
-  <a href="assets/Motion%20Capture.mp4">📹 观看演示视频：动捕标定</a>
+  <a href="https://www.bilibili.com/video/BV1RBjV6rEYy/">📹 B站观看：动捕标定演示</a>
 </p>
 
 - 操作 **12 相机光学动捕系统**（亚毫米精度），记录打印任务中底盘与机械臂的动态轨迹。
@@ -98,7 +98,7 @@ AIGC:
 </p>
 
 <p align="center">
-  <a href="assets/motor%20test.mp4">📹 观看演示视频：电机测试台</a>
+  <a href="https://www.bilibili.com/video/BV1HL41167A9/">📹 B站观看：电机测试台演示</a>
 </p>
 
 - 设计并搭建测试平台，测量**直线电机位移、电压、输出力及电流**。
@@ -124,10 +124,10 @@ AIGC:
 *独立 / 团队负责人 · 2021 年 6 月 – 2024 年 10 月*
 
 <p align="center">
-  <a href="assets/wukong%20cloud.mp4">📹 观看演示视频：电动滑板</a>
+  <a href="https://www.bilibili.com/video/BV1y51uYWEHZ/">📹 B站观看：筋斗云电动滑板演示</a>
 </p>
 <p align="center">
-  <a href="assets/Lift%20Chair.mp4">📹 观看演示视频：升降椅</a>
+  <a href="https://www.bilibili.com/video/BV18L4y1h7vY/">📹 B站观看：攀高椅演示</a>
 </p>
 
 - **电动滑板：** 完整硬件集成 —— 需求分析与器件选型 → PCB 制作 → **10S2P 电池组装配** → 电机控制器调参 → 结构制作。稳定运行 2 年以上。
