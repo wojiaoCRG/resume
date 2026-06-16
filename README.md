@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: ea2f37d43cca56d04dfb4cf037af349a_ca9c2a46697311f1a0095254002afed2
+    ReservedCode1: M9QkPWnjvmQG5zB/PXiNGMhxlMH+voZ8sVYyfbju/CcFOBGpx9XYahcd5BubY23NgVgu8Li7iCdcz49+qY1mu3OA9+n3UGzPfwJMXcyWryWjz0FyYHF7bMh4D3JQLj/cJfDAWnTpTCbg46trM5EqPJkszGZ6cnMinlQ7IFK2PKXtuPX9OZaRPozw39E=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: ea2f37d43cca56d04dfb4cf037af349a_ca9c2a46697311f1a0095254002afed2
+    ReservedCode2: M9QkPWnjvmQG5zB/PXiNGMhxlMH+voZ8sVYyfbju/CcFOBGpx9XYahcd5BubY23NgVgu8Li7iCdcz49+qY1mu3OA9+n3UGzPfwJMXcyWryWjz0FyYHF7bMh4D3JQLj/cJfDAWnTpTCbg46trM5EqPJkszGZ6cnMinlQ7IFK2PKXtuPX9OZaRPozw39E=
+---
+
 <p align="center">
   <img src="assets/avatar.png" alt="avatar" width="150">
 </p>
@@ -94,8 +105,8 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 *Independent Research · Apr – Jul 2025*
 
 <p align="center">
-  <img src="assets/huggingface.png" alt="HuggingFace" width="48%">
-  <img src="assets/model%20training.png" alt="Model Training" width="48%">
+  <img src="assets/huggingface.png" alt="HuggingFace" width="32%">
+  <img src="assets/model%20training.png" alt="Model Training" width="64%">
 </p>
 
 - Fine-tuned a **196M-parameter Diffusion Transformer + Length Regulator** in PyTorch across 13 epochs / 500 optimization steps, achieving ~50% loss reduction.
@@ -171,3 +182,4 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 <p align="center">
   <i>⚡ "Connecting sensors to learning, one prototype at a time."</i>
 </p>
+*（内容由AI生成，仅供参考）*

@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: ea2f37d43cca56d04dfb4cf037af349a_cbbb976e697311f1aa625254006c9bbf
+    ReservedCode1: K+sz4ol/7cKPZfaVHmCeqMTGdj1ibiYnr+oVR8LICpUYKxV9HOmKQrv/GajZLLuyyTdJlmtQAFETIXDrxUFbH9yh+dZa0xJNcjLaa0u3aBqn2W1d2unbTSKgBlrCKkqvQlvAPOv/4ZrMzcpuBI8uVuBsjoxtV5BzKI28/VehKgiXOL5jZ3rbybDmRYo=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: ea2f37d43cca56d04dfb4cf037af349a_cbbb976e697311f1aa625254006c9bbf
+    ReservedCode2: K+sz4ol/7cKPZfaVHmCeqMTGdj1ibiYnr+oVR8LICpUYKxV9HOmKQrv/GajZLLuyyTdJlmtQAFETIXDrxUFbH9yh+dZa0xJNcjLaa0u3aBqn2W1d2unbTSKgBlrCKkqvQlvAPOv/4ZrMzcpuBI8uVuBsjoxtV5BzKI28/VehKgiXOL5jZ3rbybDmRYo=
+---
+
 <p align="center">
   <img src="assets/avatar.png" alt="avatar" width="150">
 </p>
@@ -94,8 +105,8 @@
 *独立研究 · 2025 年 4 月 – 7 月*
 
 <p align="center">
-  <img src="assets/huggingface.png" alt="HuggingFace" width="48%">
-  <img src="assets/model%20training.png" alt="模型训练" width="48%">
+  <img src="assets/huggingface.png" alt="HuggingFace" width="32%">
+  <img src="assets/model%20training.png" alt="模型训练" width="64%">
 </p>
 
 - 在 PyTorch 中微调 **1.96 亿参数扩散 Transformer + Length Regulator**，完成 13 epoch / 500 优化步，损失降低约 50%。
@@ -171,3 +182,4 @@
 <p align="center">
   <i>⚡ "从传感器到学习，一次一个原型。"</i>
 </p>
+*（内容由AI生成，仅供参考）*
