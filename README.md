@@ -205,8 +205,3 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 
 📊 **Skill Gap Analysis:** [SKILL_GAP_ANALYSIS.md](SKILL_GAP_ANALYSIS.md)
 🗺️ **6-Month Roadmap:** [ROADMAP_6MONTH.md](ROADMAP_6MONTH.md)---
-
-<p align="center">
-  <i>⚡ "Connecting sensors to learning, one prototype at a time."</i>
-</p>
-*（内容由AI生成，仅供参考）*
