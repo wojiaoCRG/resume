@@ -205,8 +205,3 @@ AIGC:
 
 📊 **技能差距分析:** [SKILL_GAP_ANALYSIS.md](SKILL_GAP_ANALYSIS.md)
 🗺️ **6个月冲刺计划:** [ROADMAP_6MONTH.md](ROADMAP_6MONTH.md)---
-
-<p align="center">
-  <i>⚡ "从传感器到学习，一次一个原型。"</i>
-</p>
-*（内容由AI生成，仅供参考）*
