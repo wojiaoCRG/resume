@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: ea2f37d43cca56d04dfb4cf037af349a_ca9c2a46697311f1a0095254002afed2
-    ReservedCode1: M9QkPWnjvmQG5zB/PXiNGMhxlMH+voZ8sVYyfbju/CcFOBGpx9XYahcd5BubY23NgVgu8Li7iCdcz49+qY1mu3OA9+n3UGzPfwJMXcyWryWjz0FyYHF7bMh4D3JQLj/cJfDAWnTpTCbg46trM5EqPJkszGZ6cnMinlQ7IFK2PKXtuPX9OZaRPozw39E=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: ea2f37d43cca56d04dfb4cf037af349a_ca9c2a46697311f1a0095254002afed2
-    ReservedCode2: M9QkPWnjvmQG5zB/PXiNGMhxlMH+voZ8sVYyfbju/CcFOBGpx9XYahcd5BubY23NgVgu8Li7iCdcz49+qY1mu3OA9+n3UGzPfwJMXcyWryWjz0FyYHF7bMh4D3JQLj/cJfDAWnTpTCbg46trM5EqPJkszGZ6cnMinlQ7IFK2PKXtuPX9OZaRPozw39E=
----
-
 <p align="center">
   <img src="assets/avatar.png" alt="avatar" width="150">
 </p>
