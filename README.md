@@ -19,7 +19,6 @@
 
 M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience** in vehicle-arm coordination, real-time sensor fusion, embedded control, and hardware-software integration. I build end-to-end systems spanning STM32 sensing, ROS/ROS2 data pipelines, optical motion capture, CAD/PCB/3D-printed prototypes, and PyTorch/OpenCV workflows.
 
-- 🎯 **Target Role:** NVIDIA Full-Stack Solution Engineer – Sensorized Human
 - 📍 **Location:** China
 - 📅 **Availability:** July 2026
 - 🔬 **Focus:** DexUMI-style human-to-robot skill transfer, demonstration datasets, imitation learning
@@ -43,7 +42,7 @@ M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience*
 </tr>
 <tr>
 <td><b>🧠 AI / Machine Learning</b></td>
-<td>PyTorch, CUDA/TensorRT, OpenCV, Diffusion Models, Diffusion Policy, Behavior Cloning (BC), ACT, Imitation Learning pipelines, Domain Randomization, Sim2Real transfer, HuggingFace, ONNX, model fine-tuning & deployment</td>
+<td>Claude code,codex,openclaw,PyTorch, CUDA/TensorRT, OpenCV, Diffusion Models, Diffusion Policy, Behavior Cloning (BC), ACT, Imitation Learning pipelines, Domain Randomization, Sim2Real transfer, HuggingFace, ONNX, model fine-tuning & deployment</td>
 </tr>
 <tr>
 <td><b>👤 Human Sensing & Motion</b></td>
