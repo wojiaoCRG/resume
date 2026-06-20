@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td><b>🧠 AI / 机器学习</b></td>
-<td>PyTorch, CUDA/TensorRT, OpenCV, 扩散模型, Diffusion Policy, 行为克隆 (BC), ACT, 模仿学习管线, Domain Randomization, Sim2Real 迁移, HuggingFace, ONNX, 模型微调与部署</td>
+<td>Claude code,codex,openclaw,PyTorch, CUDA/TensorRT, OpenCV, 扩散模型, Diffusion Policy, 行为克隆 (BC), ACT, 模仿学习管线, Domain Randomization, Sim2Real 迁移, HuggingFace, ONNX, 模型微调与部署</td>
 </tr>
 <tr>
 <td><b>👤 人体感知与运动</b></td>
