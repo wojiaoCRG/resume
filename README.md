@@ -17,7 +17,7 @@
 
 ## 📋 About Me
 
-M.S. Candidate in Mechanical Engineering with **3+ years of hands-on experience** in vehicle-arm coordination, real-time sensor fusion, embedded control, and hardware-software integration. I build end-to-end systems spanning STM32 sensing, ROS/ROS2 data pipelines, optical motion capture, CAD/PCB/3D-printed prototypes, and PyTorch/OpenCV workflows.
+Master of Robotics Algorithm with **3+ years of hands-on experience** in vehicle-arm coordination, real-time sensor fusion, embedded control, and hardware-software integration. I build end-to-end systems spanning STM32 sensing, ROS/ROS2 data pipelines, optical motion capture, CAD/PCB/3D-printed prototypes, and PyTorch/OpenCV workflows.
 
 - 📍 **Location:** China
 - 📅 **Availability:** July 2026
