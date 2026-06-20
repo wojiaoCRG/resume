@@ -17,7 +17,7 @@
 
 ## 📋 About Me
 
-Master of Robotics Algorithm with **3+ years of hands-on experience** in vehicle-arm coordination, real-time sensor fusion, embedded control, and hardware-software integration. I build end-to-end systems spanning STM32 sensing, ROS/ROS2 data pipelines, optical motion capture, CAD/PCB/3D-printed prototypes, and PyTorch/OpenCV workflows.
+211 Robotics Algorithm Master's degree, * * 3 years of experience in developing mobile robotic arms * *, 6 project experiences, 3 scientific research outputs, deeply rooted in vehicle arm collaborative control, AI applications, real-time multi-sensor fusion, embedded control and software and hardware integration, capable of independently connecting the full chain system from STM32 perception, ROS/ROS2 data pipeline, optical motion capture, CAD/PCB/3D printing prototype to PyTorch/OpenCV workflow. I have experience in applying big models from scratch, pay attention to the forefront of technology, and am skilled in rapid learning and problem-solving. Coordinated and communicated with team members multiple times to complete the project, able to achieve the goals designated by the leader well, with a big heart, optimistic and positive attitude towards life, able to transmit good energy, strong execution ability, and serious and responsible attitude.
 
 - 📍 **Location:** China
 - 📅 **Availability:** July 2026
