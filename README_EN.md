@@ -80,7 +80,6 @@ Matlab/Simulink, Gazebo, Isaac Sim, C++, Python, STM32 HAL, Git, Docker, LCEDA, 
 - Completed the **mechanical layout design** of the skateboard, including motor positioning, deck dimensions, truck spacing, wheel assembly, battery compartment layout, and ESC mounting
 - Participated in **component selection** for the motor, battery, ESC, remote controller, wheels, and fasteners, balancing power performance, range, and space constraints
 - 🎯 **Result**: All motor and electronic component structures fit without mutual interference; validated through two years of actual use
-- 🔗 Open Source: [Somersault Cloud](https://github.com/wojiaoCRG)
 
 ---
 
