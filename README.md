@@ -1,195 +1,172 @@
-<p align="center">
-  <img src="assets/avatar.png" alt="avatar" width="150">
-</p>
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: ea2f37d43cca56d04dfb4cf037af349a_6537d4d58b5a11f18559525400f8a581
+    ReservedCode1: sYRvoAcTWLhuYaH1nBQKHGMMTh1O39R2LUx3P9QNeopmLfR9o8BuEZzjQ5zIr3q3xmCBx3LNvnzx0ZXUxSqmr4xvevwVKBOKpBLIacir/pU+hPQ9QNoGgzrYPgwh0mp2gQn5YbOM9OwfjM1rEoACr5FEvF6UKchRpDkgRjsCGW5ur+dpel7MIk/kT7M=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: ea2f37d43cca56d04dfb4cf037af349a_6537d4d58b5a11f18559525400f8a581
+    ReservedCode2: sYRvoAcTWLhuYaH1nBQKHGMMTh1O39R2LUx3P9QNeopmLfR9o8BuEZzjQ5zIr3q3xmCBx3LNvnzx0ZXUxSqmr4xvevwVKBOKpBLIacir/pU+hPQ9QNoGgzrYPgwh0mp2gQn5YbOM9OwfjM1rEoACr5FEvF6UKchRpDkgRjsCGW5ur+dpel7MIk/kT7M=
+---
 
-<h1 align="center">Hi 👋, I'm Ruiguo Chen</h1>
-<h3 align="center">Robotics & Embodied AI Engineer | Sensor Fusion | Full-Stack Prototyping</h3>
+# 陈瑞国 — 机械结构工程师（机器人方向）
 
-<p align="center">
-  <a href="README_CN.md">🇨🇳 中文</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:1040889415@qq.com">📧 Email</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/wojiaoCRG">🔗 GitHub</a>
-</p>
+[🇬🇧 English](README_EN.md)  |  [📧 Email](mailto:1040889415@qq.com)  |  [🔗 GitHub](https://github.com/wojiaoCRG)
+
+![Overview](assets/Overview.png)
+
+双一流/211 机械工程硕士，**3 年移动机械臂开发经验**，4 段相关项目经历，2 论文 1 专利 3 竞赛。精通 SolidWorks，熟悉 Creo/Pro-E，熟练使用工程图模块。扎实的工程力学、材料力学基础，熟悉常见工程材料（铝合金、钢材、工程塑料）的特性、加工工艺（CNC、3D 打印、钣金）和表面处理。具备独立完成复杂部件从概念设计、详细建模、工程出图到跟踪全流程的能力。熟悉公差分析、尺寸链计算。
+
+- 📍 所在地：中国
+- 📅 到岗时间：2026 年 7 月
+- 🔬 方向：机器人结构设计 / 机电一体化 / 移动机械臂
 
 ---
 
-## 📋 About Me
+## 🔧 专业技能
 
-211 Robotics Algorithm Master's degree, **3 years of experience in developing mobile robotic arms**, 6 project experiences, 3 scientific research outputs, deeply rooted in vehicle arm collaborative control, AI applications, real-time multi-sensor fusion, embedded control and software and hardware integration, capable of independently connecting the full chain system from STM32 perception, ROS/ROS2 data pipeline, optical motion capture, CAD/PCB/3D printing prototype to PyTorch/OpenCV workflow. I have experience in applying big models from scratch, pay attention to the forefront of technology, and am skilled in rapid learning and problem-solving. Coordinated and communicated with team members multiple times to complete the project, able to achieve the goals designated by the leader well, with a big heart, optimistic and positive attitude towards life, able to transmit good energy, strong execution ability, and serious and responsible attitude.
+**🛠️ 机械结构设计**
+SolidWorks、Pro/E (Creo)、AutoCAD、三维建模、装配设计、工程制图、干涉检查、运动仿真、SolidWorks Simulation、有限元分析
 
-- 📍 **Location:** China
-- 📅 **Availability:** July 2026
-- 🔬 **Focus:** DexUMI-style human-to-robot skill transfer, demonstration datasets, imitation learning
+**⚙️ 机器人结构**
+移动底盘、机械臂关节模组、末端执行器、传感器支架、剪叉升降机构、轮式底盘、仿生行走机构、整机方案设计
 
-<p align="center">
-  <img src="assets/Overview.png" alt="Overview" width="80%">
-</p>
+**🏭 加工工艺与样机落地**
+CNC 加工、3D 打印、钣金、焊接、车铣钻磨、BOM 整理、公差分析、尺寸链计算、零件选型、成本控制、样机装配调试
 
----
-
-## 🛠️ Core Skills
-
-<table>
-<tr>
-<td width="18%"><b>🔧 Languages & Infra</b></td>
-<td>Python, C++, STM32 HAL, CUDA, CMake, Bash/Shell, Git, GitHub Actions (CI/CD), Linux/Ubuntu, Docker, ROS/ROS2, ROS bag, tf2, Protobuf, MQTT, gRPC, YAML/JSON</td>
-</tr>
-<tr>
-<td><b>🤖 Robotics & Control</b></td>
-<td>Vehicle-arm coordination, kinematic/dynamic modeling, closed-loop control, trajectory planning, SLAM, URDF/xacro, RViz, MoveIt, Gazebo, Isaac Sim, ros2_control, sensor fusion (Vision, IMU, Odometry, MoCap), teleoperation, calibration</td>
-</tr>
-<tr>
-<td><b>🧠 AI / Machine Learning</b></td>
-<td>Claude code,codex,openclaw,PyTorch, CUDA/TensorRT, OpenCV, Diffusion Models, Diffusion Policy, Behavior Cloning (BC), ACT, Imitation Learning pipelines, Domain Randomization, Sim2Real transfer, HuggingFace, ONNX, model fine-tuning & deployment</td>
-</tr>
-<tr>
-<td><b>👤 Human Sensing & Motion</b></td>
-<td>Optical MoCap (12-camera sub-mm), OpenPose/MediaPipe, SMPL/SMPL-X, motion retargeting, RGB-D cameras (RealSense, Azure Kinect), iPhone LiDAR/Record3D, human-to-robot skill transfer, DexUMI-style data pipelines</td>
-</tr>
-<tr>
-<td><b>🔩 Hardware & Prototyping</b></td>
-<td>SolidWorks, Fusion 360, PCB design, 3D printing, I2C/SPI/UART/CAN, PID control, FreeRTOS, JTAG/SWD, BMS/Power systems, motor driver tuning, force/displacement/current sensing, mechanical assembly, rapid prototyping</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
-
-### 1. Vehicle-Arm Coordinated Mobile Manipulation & Teleoperation Data Pipeline
-*Project Lead · Sep 2023 – 2026*
-
-<p align="center">
-  <img src="assets/Vehicle-Arm.png" alt="Vehicle-Arm System" width="75%">
-</p>
-
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV1LBjV6kEPN/">📹 Watch on Bilibili: Mobile Robot Printing Demo</a>
-</p>
-
-- Modeled coupled kinematics of an **omnidirectional vehicle base + multi-DOF robotic arm** to solve SLAM drift, motion desynchronization, and real-time deviation compensation.
-- Built a unified perception-control pipeline fusing **vision, IMU, odometry, voice, and motion capture** signals; recorded joint angles, end-effector poses, and deviation metrics for replay analysis.
-- Developed a **ROS-bag data recording & replay workflow** extensible to human demonstration datasets for teleoperation, imitation learning, and diffusion-policy training.
-- 🎯 **Results:** 22%–55% accuracy improvement on end-effector/path; fabricated a **1.2m × 1.2m** large-format thin-wall part.
-- 📄 **Outputs:** 1 open-source project · 1 first-author EI paper · 1 granted utility patent.
+**💻 开发工具**
+Matlab/Simulink、Gazebo、Isaac Sim、C++、Python、STM32 HAL、Git、Docker、立创 EDA、Blender、Mujoco、Unity 3D
 
 ---
 
-### 2. High-Precision Motion Capture for Robot Trajectory Calibration
-*Independent Research · Jul – Oct 2025*
+## 🚀 项目经历
 
-<p align="center">
-  <img src="assets/Motion%20Capture.png" alt="Motion Capture System" width="75%">
-</p>
+### 1. 移动 3D 打印机器人系统设计与实现
 
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV1RBjV6rEYy/">📹 Watch on Bilibili: Motion Capture Demo</a>
-</p>
+*项目负责人 · 2023.09 – 2024.06*
 
-- Operated a **12-camera optical MoCap system** (sub-millimeter precision) to record dynamic chassis and arm trajectories during printing.
-- Time-synchronized **MoCap ground truth with onboard odometry & IMU**, enabling layer-by-layer error analysis and compensation.
-- 🔄 **Transferable to human tracking:** spatial calibration, frame alignment, low-latency streaming, and kinematic mapping between operator motion and robot end-effector targets.
+[📹 演示视频](https://www.bilibili.com/video/BV1LBjV6kEPN/)
 
----
+![Vehicle-Arm](assets/Vehicle-Arm.png)
 
-### 3. STM32-Based Force-Aware Linear Actuator Test Rig
-*Bachelor Thesis · Feb – May 2023*
-
-<p align="center">
-  <img src="assets/motor%20test.png" alt="Test Rig" width="75%">
-</p>
-
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV1HL41167A9/">📹 Watch on Bilibili: Motor Test Rig Demo</a>
-</p>
-
-- Designed and built a test platform measuring **linear motor displacement, voltage, output force, and current**.
-- Implemented **STM32 HAL firmware** for real-time data acquisition, closed-loop control, sensor calibration, and experimental validation.
-- 🔧 Groundwork for force measurement, signal conditioning, and deterministic embedded control — relevant to **tactile sensing & haptic feedback integration**.
+- 负责移动 3D 打印机器人**整机方案设计**，包括移动底盘、机械臂安装支座、传感器支架、末端执行器安装接口等关键部件的三维建模与装配设计
+- 使用 SolidWorks、SolidWorks Simulation 完成机器人整机三维建模与仿真分析，进行**干涉检查、运动范围校核、重心分析和装配工艺性优化**
+- 参与机械臂末端执行器结构设计，针对打印、视觉等任务场景进行结构适配和局部优化
+- 🎯 **成果**：完成原型机装配调试与测试，解决装配干涉、运动卡滞等实际问题，成功打印 1.2m 大尺寸薄壁构件
+- 📄 **产出**：开源项目 1 项 · 第一作者 EI 论文 1 篇 · 授权实用新型专利 1 项
 
 ---
 
-### 4. Diffusion Transformer Fine-Tuning for Voice Conversion
-*Independent Research · Apr – Jul 2025*
+### 2. 三维设计大赛 — 全向升降攀高椅结构设计与样机开发
 
-<p align="center">
-  <img src="assets/huggingface.png" alt="HuggingFace" width="32%">
-  <img src="assets/model%20training.png" alt="Model Training" width="64%">
-</p>
+*项目负责人 · 2024.06 – 2024.10*
 
-- Fine-tuned a **196M-parameter Diffusion Transformer + Length Regulator** in PyTorch across 13 epochs / 500 optimization steps, achieving ~50% loss reduction.
-- 🧠 Strengthened diffusion-model debugging, sequence generation, training-loop design, and **reproducible Linux/Docker deployment** — directly transferable to diffusion-policy pipelines.
+[📹 演示视频](https://www.bilibili.com/video/BV18L4y1h7vY/)
 
----
-
-### 5. Rapid Mechatronic Prototypes: Electric Skateboard & Lift Chair
-*Independent / Team Lead · Jun 2021 – Oct 2024*
-
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV1y51uYWEHZ/">📹 Watch on Bilibili: Electric Skateboard Demo</a>
-</p>
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV18L4y1h7vY/">📹 Watch on Bilibili: Lift Chair Demo</a>
-</p>
-
-- **Electric Skateboard:** Full hardware integration — component selection → PCB fabrication → **10S2P battery pack assembly** → motor controller tuning → structural build. Reliable operation for 2+ years.
-- **Smart Omnidirectional Lift Chair:** Led prototype with scissor-lift mechanism and hand-control interface, building human-centered design and full-stack electromechanical assembly skills.
+- 负责整机**机械方案设计**，包括全向移动底盘、剪叉升降机构、座椅支撑结构、电机安装座和外壳防护结构
+- 使用 SolidWorks 完成关键零件建模、整机装配、运动仿真和干涉检查，验证升降过程中的结构稳定性
+- 完成驱动轮、电机、丝杆、剪叉连杆、轴承、紧固件等**零部件选型**，优化升降行程、承载能力和整机尺寸
+- 参与样机加工、装配和调试，解决升降卡顿、底盘跑偏、结构晃动等问题
+- 🏆 **成果**：实现全向移动与最大 2m 升降高度，完成原理机验证，获**浙江省特等奖**
 
 ---
 
-## 📚 Publications & Patent
+### 3. DIY「筋斗云」电动滑板机械结构与电控系统集成开发
 
-| Type | Title | Venue / ID | Year |
-|------|-------|------------|------|
-| 📄 **EI Journal (First Author)** | Research on Dual-tracking Strategy for Interlayer Deviation Optimization in Mobile Robot 3D Printing | *China Mechanical Engineering* | 2025 (Accepted) |
-| 🔧 **Granted Utility Patent** | A Dual-tracking Continuous Mobile 3D Printing Device Based on Vision Sensing | ZL 2025 2 0638034.7 | 2026 |
+*开发者 · 2024.08 – 2024.10*
 
----
+[📹 演示视频](https://www.bilibili.com/video/BV1y51uYWEHZ/)
 
-## 🏭 Industry Experience
-
-| Company | Role | Period |
-|---------|------|--------|
-| Ningbo Ronghong Auto Co. | Laser Cutting Operator | Jan – Feb 2021 |
-| Yuhuan Tongfa Plastic Machinery Co. | Mechanical Drafter & Assembly Support | Jul – Sep 2021 |
-| Songzheng Intelligent Co. | Industry-Education Project Lead | Feb – Apr 2022 |
-
-- **Ronghong:** Converted product drawings into CAD layouts for sheet-metal laser cutting, nesting, inspection.
-- **Tongfa:** Modeled sheet-metal housings for blow-molding equipment; production-line mechanical assembly & wiring.
-- **Songzheng:** Led student team to model water-heater inner-tank production line and study electromechanical process flow.
+- 完成滑板**机械结构方案设计**，包括电机位置、板面尺寸、桥距、轮组安装、电池仓布局和电控模块安装位置
+- 参与电机、电池、电调、遥控器、轮组和紧固件的**选型**，平衡动力性能、续航能力和结构空间限制
+- 🎯 **成果**：滑板电机、电控各部分结构位置无相互干涉，通过实际两年使用验证功能运行良好
+- 🔗 开源链接：[筋斗云阴阳](https://github.com/wojiaoCRG)
 
 ---
 
-## 🎓 Education
+### 4. 直线电机检测装置机械结构与控制系统设计
 
-| School | Degree | Period |
-|--------|--------|--------|
-| **Xinjiang University** (211 / Double First-Class) | M.S. Mechanical Engineering — Vehicle-Arm Coordination | Sep 2023 – Jun 2026 |
-| Taizhou University | B.Eng. Mechatronic Engineering — Machine Vision | Sep 2019 – Jun 2023 |
+*本科毕业设计 · 2023.02 – 2023.05*
 
----
+[📹 演示视频](https://www.bilibili.com/video/BV1HL41167A9/)
 
-## 🏆 Honors & Awards
+![motor test](assets/motor%20test.png)
 
-| Award | Level |
-|-------|-------|
-| Zhejiang Provincial Government Scholarship | 2020–2021, 2021–2022 |
-| Xinjiang University Academic Scholarship | 2024, 2025 |
-| 🥉 National 3rd Prize — 3D Digital Innovation Design Competition | National |
-| 🥇 Provincial Grand Prize — 3D Digital Innovation Design Competition | Provincial |
-| 🥈 Provincial 2nd Prize (×2) — 3D Digital Innovation Design Competition | Provincial |
-| 🥈 Provincial 2nd Prize — Engineering Training & Mechanical Design Competition | Provincial |
-| 🎖️ Outstanding Graduate of Zhejiang Province | 2023 |
+- 完成检测装置**结构设计**，包括传感器支架、限位结构和防护罩等，使用亚克力激光切割制作实物
+- 负责 STM32 HAL 库软硬件设计、代码编写、调试纠错，实现实时数据采集与闭环控制
+- 🎯 **成果**：直线电机检测装置通过功能验证，实时在 LCD 屏显示电机电流、电压等数据
 
 ---
 
-## 🔭 Current Technical Focus
+### 5. 高精度动作捕捉用于机器人轨迹标定
 
-- **Isaac Sim / Omniverse:** Building Human-in-the-Loop simulation with MoCap-driven digital humans via Python API & ROS2 Bridge.
-- **SMPL/SMPL-X:** Loading parametric body models, driving joints from AMASS datasets, visualizing in Isaac Sim.
-- **Diffusion Policy:** Reproducing Stanford Diffusion Policy on vehicle-arm coordination data — from ROS-bag to action generation.
-- **Low-Cost Data Pipeline:** iPhone Record3D → SMPL fitting → Isaac Sim retargeting → ROS2 streaming prototype.
-- **Sim2Real Transfer:** Designing domain-randomized training environments and benchmarking real-robot policy transfer.
+*独立研究 · 2025.07 – 2025.10*
 
-📊 **Skill Gap Analysis:** [SKILL_GAP_ANALYSIS.md](SKILL_GAP_ANALYSIS.md)
-🗺️ **6-Month Roadmap:** [ROADMAP_6MONTH.md](ROADMAP_6MONTH.md)---
+[📹 演示视频](https://www.bilibili.com/video/BV1RBjV6rEYy/)
+
+![Motion Capture](assets/Motion%20Capture.png)
+
+- 操作 12 相机光学动捕系统（亚毫米精度），记录打印过程中底盘与机械臂动态轨迹
+- 将动捕真值与机载里程计、IMU 进行时间同步，实现逐层误差分析与补偿
+- 🔄 可迁移至人体追踪：空间标定、帧对齐、低延迟流传输、操作者运动到机器人末端的运动学映射
+
+---
+
+### 6. 扩散模型微调用于语音转换
+
+*独立研究 · 2025.04 – 2025.07*
+
+![model training](assets/model%20training.png)
+
+- 在 PyTorch 中微调 1.96 亿参数扩散 Transformer + 长度调节器，13 个 epoch / 500 优化步，损失降低约 50%
+- 🧠 强化了扩散模型调试、序列生成、训练循环设计和可复现的 Linux/Docker 部署能力
+
+---
+
+## 📄 科研成果
+
+| 类型 | 题目 | 刊物/编号 | 年份 |
+|------|------|----------|------|
+| **EI 期刊（一作）** | 面向移动机器人 3D 打印层间偏差优化的双寻迹策略研究 | *中国机械工程*（IF 3.04） | 2025（已刊出） |
+| 🔧 **实用新型专利（已授权）** | 一种基于视觉传感的双寻迹连续移动 3D 打印装置 | ZL 2025 2 0638034.7 | 2026 |
+| 📄 **期刊论文（一作）** | 电塑性辅助加工难加工材料研究现状分析 | — | 已刊出 |
+
+---
+
+## 🏆 荣誉奖励
+
+| 奖项 | 级别 |
+|------|------|
+| 浙江省优秀毕业生 | 2023 |
+| 🥉 全国三维数字化创新设计竞赛 国家三等奖 | 国家级 |
+| 🥇 全国三维数字化创新设计竞赛 省特等奖 | 省级 |
+| 🥈 全国大学生工程训练竞赛 省二等奖 | 省级 |
+| 🥈 全国大学生机械设计竞赛 省二等奖 | 省级 |
+| 🥈 全国三维数字化创新竞赛 省二等奖 | 省级 |
+| 🥉 浙江省物理创新竞赛 省三等奖 | 省级 |
+| 浙江省政府奖学金 | 2020–2021, 2021–2022 |
+| 新疆大学学业奖学金 | 2024, 2025 |
+
+---
+
+## 🏭 实践与实习经历
+
+| 公司 | 角色 | 时间 | 工作内容 |
+|------|------|------|----------|
+| 宁波荣红汽车有限公司 | 激光切割操作员 | 2021.01–2021.02 | 金属板材激光切割成型，CAD 图形绘制与排版，下料检验 |
+| 玉环同发塑机有限公司 | 绘图师 | 2021.07–2021.09 | 吹塑机外壳钣金三维建模与加工图纸设计，流水线组装与电路接线 |
+| 松正智能有限公司 | 产教融合项目队长 | 2022.02–2022.04 | 带领学生团队完成热水器内胆流水线三维建模 |
+
+---
+
+## 🎓 教育经历
+
+| 学校 | 学位 | 时间 |
+|------|------|------|
+| **新疆大学**（211 / 双一流） | 硕士 · 机械工程（移动 3D 打印机器人方向） | 2023.09 – 2026.06 |
+| 台州学院 | 学士 · 机械电子工程（机器人方向） | 2019.09 – 2023.06 |
+
+---
+
+> 📁 旧版（机器人全栈工程师）备份：[backup_robot_fullstack/](backup_robot_fullstack/)
+*（内容由AI生成，仅供参考）*
